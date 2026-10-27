@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "functions": {
-    "api/submit.js": {
-      "maxDuration": 10
-    }
-  }
-}
