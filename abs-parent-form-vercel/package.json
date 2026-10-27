@@ -1,0 +1,9 @@
+{
+  "name": "abs-parent-info-form",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ABS Student and Parent Information Form with Google Sheets storage",
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
